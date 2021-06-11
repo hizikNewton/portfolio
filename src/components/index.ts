@@ -1,0 +1,7 @@
+export {About} from './About/About'
+export {Contact} from './contact/Contact'
+export {Header} from './Header/Header'
+export {HeroComp} from './HeroComp'
+export {Resume} from './Resume/Resume'
+export {Footer} from './footer'
+export {Portfolio} from './portfolio/Portfolio'
